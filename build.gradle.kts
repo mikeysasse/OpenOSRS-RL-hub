@@ -58,14 +58,14 @@ subprojects {
         compileOnly(group = "com.openosrs", name = "runelite-client", version = "3.5.4")
 
         compileOnly(group = "org.apache.commons", name = "commons-text", version = "1.9")
-        compileOnly(group = "com.google.guava", name = "guava", version = "30.0-jre")
+        compileOnly(group = "com.google.guava", name = "guava", version = "30.1-jre")
         compileOnly(group = "com.google.inject", name = "guice", version = "4.2.3", classifier = "no_aop")
         compileOnly(group = "com.google.code.gson", name = "gson", version = "2.8.6")
         compileOnly(group = "net.sf.jopt-simple", name = "jopt-simple", version = "5.0.4")
         compileOnly(group = "org.projectlombok", name = "lombok", version = "1.18.16")
         compileOnly(group = "com.squareup.okhttp3", name = "okhttp", version = "4.9.0")
         compileOnly(group = "org.pf4j", name = "pf4j", version = "3.5.0")
-        compileOnly(group = "io.reactivex.rxjava3", name = "rxjava", version = "3.0.7")
+        compileOnly(group = "io.reactivex.rxjava3", name = "rxjava", version = "3.0.8")
         compileOnly(group = "org.pushing-pixels", name = "radiance-substance", version = "3.5.1")
     }
 
